@@ -1,0 +1,27 @@
+#bg-white {
+    background: #ffffff;
+    color: #84837D;
+}
+
+#bg-blue {
+    background: #307AAB;
+    color: #ffffff;
+}
+
+#bg-grey {
+    background: #EEEFF1;
+    color: #4D5154;
+}
+
+.card-white {
+    background: #ffffff;
+    padding: 30px;
+    box-shadow: 1px 1px 2px #e7e7e7;
+    border-radius: 4px;
+    margin: 20px 50px;
+}
+
+.extra-vert-margin {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
